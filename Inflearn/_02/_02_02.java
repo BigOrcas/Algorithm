@@ -13,7 +13,6 @@ class Main {
             }
         }
         System.out.print(cnt);
-
     }
 
     public static void main(String[] args) {
