@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4190d9ba-6437-4238-a7c5-c9b9b16b9ccc" name="aio_middle_bridge">
+        <fileTransfer accessType="SFTP" host="54.180.40.230" port="22" sshConfigId="35b8c030-b849-4944-9231-5cf4ea5f587f" sshConfig="ubuntu@54.180.40.230:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
